@@ -1,0 +1,35 @@
+.table {
+  margin: 0 auto;
+  font-size: 15px;
+  width: 900px;
+  font-family: 'KOMACON';
+}
+
+.table thead th {
+  text-align: center;
+  height: 30px;
+}
+
+.table td {
+  padding-right: 12px 15px;
+  padding-top: 12px;
+  color: black;
+  text-align: center;
+}
+
+.table tbody tr {
+}
+
+.table tbody tr:last-of-type {
+}
+
+.nav {
+  margin: 0 auto;
+  letter-spacing: 5rem;
+  font-size: 15px;
+  width: 900px;
+  text-align: center;
+  border-radius: 10px;
+  /* border: 2px solid #b9ceac; */
+  background-color: #FCEDDA;
+}
